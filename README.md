@@ -1,21 +1,21 @@
-# AI DSA Instructor 📚🤖
+# AI DSA Instructor 
 
 An AI-powered Data Structures and Algorithms (DSA) learning assistant built using **Retrieval-Augmented Generation (RAG)**. The application allows users to upload DSA notes in PDF format and ask questions in natural language. It retrieves the most relevant content from the uploaded notes using semantic search and generates accurate, context-aware answers using Google's Gemini model.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 📄 Upload DSA notes in PDF format
-* 🔍 Semantic search using FAISS vector database
-* 🤖 AI-powered question answering with Gemini
-* 📚 Retrieval-Augmented Generation (RAG) pipeline
-* ⚡ Fast and relevant responses
-* 💻 Interactive Streamlit web interface
+*  Upload DSA notes in PDF format
+*  Semantic search using FAISS vector database
+*  AI-powered question answering with Gemini
+*  Retrieval-Augmented Generation (RAG) pipeline
+*  Fast and relevant responses
+*  Interactive Streamlit web interface
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python**
 * **Streamlit**
@@ -27,7 +27,7 @@ An AI-powered Data Structures and Algorithms (DSA) learning assistant built usin
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 AI_DSA_Instructor/
@@ -51,7 +51,7 @@ AI_DSA_Instructor/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Upload a DSA PDF.
 2. The PDF is split into smaller text chunks.
@@ -63,13 +63,13 @@ AI_DSA_Instructor/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### User Interface
 
 ![User Interface](Images/ui.png)
 
-### PDF Upload
+### UI
 
 ![PDF Upload](Images/image.png)
 
@@ -79,7 +79,7 @@ AI_DSA_Instructor/
 
 ---
 
-## ▶️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -114,7 +114,7 @@ streamlit run app.py
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 * Support multiple PDFs
 * Conversation history
@@ -125,7 +125,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 This project helped in understanding:
 
@@ -139,8 +139,10 @@ This project helped in understanding:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Gayatri Rokade**
+BE Computer
+Sinhgad College of Engineering
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+
